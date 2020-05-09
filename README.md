@@ -7,4 +7,4 @@ Banner rotativo com transição de imagens com CSS3 e JavaScript puro, aplicaç�
 - CSS
 - JavaScript
 
-![](/video/banner.ogv)
+![](https://github.com/EusRique/banner-rotativo/blob/master/banner.gif)
